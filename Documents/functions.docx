@@ -1,0 +1,24 @@
+email
+phone
+people
+location
+social
+general
+
+
+if(location){
+    wiki (https://en.wikipedia.org/w/index.php?search=test )
+    weather  (https://duckduckgo.com/?q=weather+trivandrum)
+    google 
+    google map  ( api )
+    Bing map (https://www.bing.com/maps?&q=Kochi)
+
+} else if ( social ) {
+    twitter  ( api )
+    facebook ( api )
+} else if (general ) {
+    wiki
+    google image
+    ( Duckduckgo Image ) = https://duckduckgo.com/?q=[searchterm]&iax=images&ia=images
+    google
+}
