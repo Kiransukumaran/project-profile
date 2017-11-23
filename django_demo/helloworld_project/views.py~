@@ -1,0 +1,12 @@
+from django.http import HttpResponse
+
+
+def home_page(request):
+    return HttpResponse('Hello, World!')
+
+
+def sum(request):
+    a=input("Enter the value 1")
+    b=input("Enter the value 2")
+    c=a+b
+    return HttpResponse(c) 
