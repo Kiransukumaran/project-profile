@@ -1,4 +1,4 @@
-Developer Installations
+﻿Developer Installations
 ----------------------
 		OS
 -------------------------------------
@@ -27,5 +27,8 @@ Install scarpy using pip
 Firefox
 Firefox Developer
 
-
+		Library
+--------------------------------------
+Beautiful Soup 4 (  pip install BeautifulSoup4  )
+graph ql  (  pip install graphene  )
 
